@@ -437,6 +437,26 @@
     [
       "4822798e-0949-434e-a60a-aa470e00cf96",
       ""
+    ],
+    [
+      "69bbe14f-84d9-4e63-9d69-4c8b829bf4d7",
+      "Sensor_array"
+    ],
+    [
+      "07133349-20df-410c-9970-471eecbbb249",
+      "Power_filtering"
+    ],
+    [
+      "daf176d0-d752-4999-bb7d-ed2a2841e150",
+      "Analog_multiplexing"
+    ],
+    [
+      "ea5630fc-fd3b-4d8e-a66c-d9047d3ba741",
+      "Digital_electronics"
+    ],
+    [
+      "dc0827fd-dea3-4812-abe0-a759f9b2a1ab",
+      "ADC"
     ]
   ],
   "text_variables": {}
