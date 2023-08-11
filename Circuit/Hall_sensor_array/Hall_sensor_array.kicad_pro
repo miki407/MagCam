@@ -454,11 +454,11 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "",
+      "idf": "Hall_sensor_array.emn",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "Hall_sensor_array.step",
+      "vrml": "Hall_sensor_array.wrl"
     },
     "page_layout_descr_file": ""
   },

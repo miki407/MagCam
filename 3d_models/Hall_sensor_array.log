@@ -1,0 +1,4062 @@
+STEP translation to Solid Edge
+Date: Thursday,August 10,2023 01:51PM
+Source File: D:\hall_sensor_array\Circuit\Hall_sensor_array\Hall_sensor_array.step
+Author: Pcbnew
+Organization: Kicad
+Source System: KiCad to STEP converter
+
+Hardware:
+Processor: Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz
+Operating System: Windows 10 Professional Version:22H2 Build:19045 System Type:64-bit
+Installed Memory: 10.99 GB
+
+Software Information
+Parasolid Version: 35.0.149
+PSBodyShop Version: 35.0.82
+Step Adapter Version: 11.0.82
+Solid Edge Version: 223.00.00.101 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: D:\hall_sensor_array\3d_models
+Import Enable Default Output Path: Off
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File D:\hall_sensor_array\Circuit\Hall_sensor_array\Hall_sensor_array.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|  |--+Created SE Part File D:\hall_sensor_array\3d_models\SOLID.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\hall_sensor_array\3d_models\SOT-23.asm
+|  |--+Created SE Part File D:\hall_sensor_array\3d_models\SOLID_0.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|  |--+Created SE Part File D:\hall_sensor_array\3d_models\SOLID_1.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\hall_sensor_array\3d_models\LED_0805_2012Metric.asm
+|  |--+Created SE Part File D:\hall_sensor_array\3d_models\SOLID_2.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\hall_sensor_array\3d_models\C_0805_2012Metric.asm
+|  |--+Created SE Part File D:\hall_sensor_array\3d_models\SOLID_3.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\hall_sensor_array\3d_models\R_0805_2012Metric.asm
+|  |--+Created SE Part File D:\hall_sensor_array\3d_models\SOLID_4.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\R_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\hall_sensor_array\3d_models\SOIC-16_3.9x9.9mm_P1.27mm.asm
+|  |--+Created SE Part File D:\hall_sensor_array\3d_models\SOLID_5.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\R_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\R_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\R_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\LED_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\hall_sensor_array\3d_models\TO-252-2.asm
+|  |--+Created SE Part File D:\hall_sensor_array\3d_models\COMPOUND.par
+|--+Total Parts: 10
+|--+Assemblies: 0
+|--+Solid Bodies: 10
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\LED_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\LED_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\R_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\LED_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\R_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\R_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\hall_sensor_array\3d_models\PinHeader_1x05_P2.54mm_Horizontal.asm
+|  |--+Created SE Part File D:\hall_sensor_array\3d_models\SOLID_6.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\LED_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\LED_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TO-252-2.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TO-252-2.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\TSSOP-24_4.4x7.8mm_P0.65mm.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\SOT-23.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\hall_sensor_array\3d_models\C_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File D:\hall_sensor_array\3d_models\PCB.par
++Total Parts: 11
++Assemblies: 9
++Solid Bodies: 2
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 12
