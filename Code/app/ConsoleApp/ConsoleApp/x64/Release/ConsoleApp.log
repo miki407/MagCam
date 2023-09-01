@@ -1,0 +1,35 @@
+﻿  ConsoleApp.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\format(43): warning STL4038: The contents of <format> are available only with C++20 or later.
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(72,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(74,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(75,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(78,110): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(78,81): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(162,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(190,31): warning C4244: '+=': conversion from 'float' to 'uint16_t', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(191,31): warning C4244: '*=': conversion from 'float' to 'uint16_t', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(195,41): warning C4244: '=': conversion from 'uint64_t' to 'uint16_t', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(196,31): warning C4244: '+=': conversion from 'float' to 'uint16_t', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(197,31): warning C4244: '*=': conversion from 'float' to 'uint16_t', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(200,34): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(203,34): warning C4244: '=': conversion from 'double' to 'uint16_t', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(230,92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(231,92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(262,75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(263,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(291,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(292,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 252 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApp.vcxproj -> D:\hall_sensor_array\Code\app\ConsoleApp\x64\Release\MagCam.exe

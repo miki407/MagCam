@@ -1,0 +1,1 @@
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\x64\Debug\ConsoleApp.vcxproj.CopyComplete
