@@ -1,0 +1,4 @@
+﻿  ConsoleApp.cpp
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(106,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(107,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApp.vcxproj -> D:\hall_sensor_array\Code\app\ConsoleApp\x64\Debug\ConsoleApp.exe

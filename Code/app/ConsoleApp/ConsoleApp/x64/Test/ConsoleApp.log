@@ -1,0 +1,13 @@
+﻿  ConsoleApp.cpp
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(23,19): error C2664: 'HANDLE CreateFileA(LPCSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': cannot convert argument 1 from 'const _Elem *' to 'LPCSTR'
+          with
+          [
+              _Elem=wchar_t
+          ]
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(23,69): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapi.h(79,1): message : see declaration of 'CreateFileA'
+D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(23,19): message : while trying to match the argument list '(const _Elem *, unsigned long, int, int, int, int, int)'
+          with
+          [
+              _Elem=wchar_t
+          ]
