@@ -23,4 +23,4 @@ The app also has a feature that recreates the magnetic field lines from the chan
 > App is still in development  and more features are planned in the future. There are also plans to improve the gui
 
 ## Files
-all the files can be found [here](https://github.com/miki407/hall_sensor_array)
+all the files can be found [here](https://github.com/miki407/MagCam)
