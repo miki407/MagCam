@@ -293,7 +293,7 @@ int main()
             cv::putText(infoBar, "Gauss", Point(80, 10), FONT_HERSHEY_PLAIN, 1, Scalar(0, 0, 0));
             cv::putText(infoBar, format("%.2f", num_low), Point(80, 26), FONT_HERSHEY_PLAIN, 1, Scalar(0, 0, 0));
             cv::putText(infoBar, format("%.2f", num_high), Point(80, 482), FONT_HERSHEY_PLAIN, 1, Scalar(0, 0, 0));
-            cv::putText(infoBar, format("%.2f", (((float)val[m_y * 16 + m_x] - mid_point[m_y * 16 + m_x] / 10.92) * 2.45/ 4095) / 0.00023333333), Point(90, 256), FONT_HERSHEY_PLAIN, 1, Scalar(0, 0, 0));
+            cv::putText(infoBar, format("%.2f", (((float)val[m_y * 16 + m_x] - mid_point[m_y * 16 + m_x] / 10.92) * 2.45 / 4095) / 9.1 / 0.00023333333), Point(90, 256), FONT_HERSHEY_PLAIN, 1, Scalar(0, 0, 0));
 
             cv::resize(imageF, imageF, Size(512, 512), 1, 1, INTER_LINEAR);
             if (arrow) {
@@ -317,8 +317,8 @@ int main()
                     Video.release();
                 }
                 Rec = false;
-            if (GetKeyState(' ') & 0x8000) {
             }
+            if (GetKeyState(' ') & 0x8000) {
                 if (freez_state == 0) {
                     freez = ~freez;
                 }
@@ -398,11 +398,11 @@ int main()
             gotoxy(12, 1);
             cout << Gain << "                    ";
             gotoxy(12, 2);
-            cout << max << "(" << ((float)max * 2.45 / 4096 - 1.7) / 0.00023333333 << ")              ";
+            cout << max << "(" << ((float)max * 2.45 / 4096) / 9.1 / 0.00023333333 << ")              ";
             gotoxy(12, 3);
-            cout << min << "(" << ((float)min * 2.45 / 4096 - 1.7) / 0.00023333333 << ")              ";
+            cout << min << "(" << ((float)min * 2.45 / 4096) / 9.1 / 0.00023333333 << ")              ";
             gotoxy(12, 4);
-            cout << m_y << "    " << m_x << "    " << val[m_y * 16 + m_x] << "(" << (((float)val[m_y * 16 + m_x] - mid_point[m_y * 16 + m_x] / 10.92) * 2.45 / 4095) / 0.00023333333 << ")              ";
+            cout << m_y << "    " << m_x << "    " << val[m_y * 16 + m_x] << "(" << (((float)val[m_y * 16 + m_x] - mid_point[m_y * 16 + m_x] / 10.92) * 2.45 / 4095) / 9.1 / 0.00023333333 << ")              ";
             gotoxy(12, 5);
             cout << frame; 
             gotoxy(24, 6);

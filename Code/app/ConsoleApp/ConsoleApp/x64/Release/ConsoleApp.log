@@ -28,8 +28,8 @@ D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(263,74): warn
 D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(291,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 D:\hall_sensor_array\Code\app\ConsoleApp\ConsoleApp\ConsoleApp.cpp(292,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   Generating code
-  4 of 252 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+  1 of 252 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    25 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   ConsoleApp.vcxproj -> D:\hall_sensor_array\Code\app\ConsoleApp\x64\Release\MagCam.exe

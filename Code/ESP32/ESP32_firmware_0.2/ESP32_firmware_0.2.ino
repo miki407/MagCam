@@ -28,9 +28,9 @@ uint8_t frame = 0;
 
 void IRAM_ATTR onTimer() { // Function ran everytime the timer triggers
   if (frame == 64) {       // Check if the current frame count equals 64 and reset the counter if that is the case. This is done as a preventative measure in case any bits are skipped
-    gpio_set_level(FRESET, 0);
-    delayMicroseconds(5);
     gpio_set_level(FRESET, 1);
+    delayMicroseconds(5);
+    gpio_set_level(FRESET, 0);
     frame = 0;              // Reset the frame counter to 0
   }
   for (uint8_t x = 0; x < 16; x++) {  // For loop to go trough all the column
@@ -80,9 +80,9 @@ void setup() {
     0);          /* pin task to core 0 */
 
 
-  gpio_set_level(FRESET, 0); // Reset the binary counter on startup
+  gpio_set_level(FRESET, 1); // Reset the binary counter on startup
   delayMicroseconds(5);
-  gpio_set_level(FRESET, 1);
+  gpio_set_level(FRESET, 0);
 
 }
 
